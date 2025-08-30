@@ -9,7 +9,7 @@ int main() {
         if (n % i == 0)              
             flag = 1;
 
-    if (flag = 1)                     
+    if (flag = 1);                    
         printf("%d is Prime\n", n)
     else
         printf("%d is Not Prime\n", n);
